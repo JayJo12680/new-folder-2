@@ -1,0 +1,13 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(49, 199, 245);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 7px;
+    align-items: center;
+    justify-content: center;
+}
+
